@@ -21,7 +21,7 @@ Demonstrate your ability to work with the provided tools and deliver a solution 
 ## Setup Instructions
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-repo-url.git
+   git clone https://github.com/ravigithubshankar/LLM-Based-RAG-DeepEdge
    cd rag-system-chatbot
    ```
 2. **Set Up Virtual Environment**:
@@ -56,9 +56,9 @@ Demonstrate your ability to work with the provided tools and deliver a solution 
    cd streamlit_app
    streamlit run app.py
    ```
-   Runs on `http://localhost:8501`.
+   Runs on `http://localhost:7000`.
 7. **Open the Application**:
-   Visit `http://localhost:8501` to interact with the system.
+   Visit `http://localhost:7000` to interact with the system.
 
 ## Project Structure
 - `flask_app/`: Backend Flask API and utilities.
