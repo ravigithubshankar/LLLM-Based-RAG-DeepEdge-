@@ -67,7 +67,7 @@ Demonstrate your ability to work with the provided tools and deliver a solution 
 - `requirements.txt`: Project dependencies.
 
 ## Task Instructions
-1. Implement functionality to fetch, process, and generate LLM responses using the provided APIs.
-2. Integrate APIs with the Flask backend.
-3. Display results in the Streamlit frontend.
+1. Implemented functionality to fetch, process, and generate LLM responses using the provided APIs.
+2. Integrated APIs with the Flask backend.
+3. Displayed results in the Streamlit frontend.
 
