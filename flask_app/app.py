@@ -20,8 +20,14 @@ load_dotenv()
 app = Flask(__name__)
 
 # Set environment variables
-SEARCH_API_KEY = os.getenv("SEARCH_API_KEY")
-GROQ_API_KEY = os.getenv("GROQ_API_KEY")
+#SEARCH_API_KEY = os.getenv("SEARCH_API_KEY")
+#GROQ_API_KEY = os.getenv("GROQ_API_KEY")
+
+SEARCH_API_KEY=b3480786b4014dcc81fbfe8f4e8d7bf7316174b9ab6bf89ce4bfd01937261a11
+GROQ_API_KEY=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
+FLASK_SECRET_KEY=16428fedb8c656d945426a06536a67b9f9526612938e4f163d893a72c9217e1a
+
+
 
 
 # Verify API keys
